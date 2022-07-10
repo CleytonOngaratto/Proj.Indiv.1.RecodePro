@@ -28,8 +28,9 @@ Esta em aberto a possibilidade de modificações conforme eu for adquirindo mais
 
 
 Feito com muito esforço e dedicação por: Cleyton Ongaratto 👋🏽 Entre em contato!
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleyton-ongaratto-b8153916a/)]([https://www.linkedin.com/in/tgmarinho/](https://www.linkedin.com/in/cleyton-ongaratto-b8153916a/) 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleytongarattosousa@gmail.com)](mailto:cleytongarattosousa@gmail.com)
+
+
 
 
