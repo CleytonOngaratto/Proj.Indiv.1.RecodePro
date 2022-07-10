@@ -5,9 +5,9 @@
 ## 🛠 Tecnologias utilizadas:
 
 <!--ts-->
-   * [HTML]
-   * [CSS]
-   * Bootstrap]
+   * HTML
+   * CSS
+   * Bootstrap
 <!--te-->
 
 
