@@ -10,6 +10,9 @@
    * Bootstrap
 <!--te-->
 
+### Link da hospedagem:
+
+https://cleytonongaratto.github.io/agenciaDeViagens/
 
   ### Status
 
@@ -17,10 +20,6 @@
 - [ ] Atualização 🚀
 
 Esta em aberto a possibilidade de modificações conforme eu for adquirindo mais conhecimento e experiência em desenvolvimento de software. 🚀🚀🚀
-
-### Link da hospedagem:
-
-https://cleytonongaratto.github.io/agenciaDeViagens/
 
 ### Autor
 
