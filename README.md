@@ -2,10 +2,10 @@
 
 <p align="center">Nesta segunda entrega do projeto/ segunda versão, eu refatorei o código bootstrap do site, deixando-o mais responsivo e adotando as tags semânticas.
   Além disso, as novidade são: 
-* Modelo conceitual e lógico do banco de dados feito com a ferramenta BRmodelo;
-* Modelo físico (tabelas e relações) usando o MySQL;
-* Diagrama de Classes;
-* Aplicação do CRUD em Java utilizando as classes Java, JDBC e MySQL.   </p>
+  * Modelo conceitual e lógico do banco de dados feito com a ferramenta BRmodelo;
+  * Modelo físico (tabelas e relações) usando o MySQL;
+  * Diagrama de Classes;
+  * Aplicação do CRUD em Java utilizando as classes Java, JDBC e MySQL.   </p>
 
 ## 🛠 Tecnologias utilizadas:
 
