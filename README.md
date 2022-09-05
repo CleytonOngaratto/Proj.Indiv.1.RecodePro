@@ -18,8 +18,8 @@ https://cleytonongaratto.github.io/agenciaDeViagens/
 
   ### Status
 
-- [x] Primeira versão - Concluido
-- [x] Segunda versão - 05/09/2022 Concluído  🚀
+- [x] Primeira versão - 10/07/2022
+- [x] Segunda versão - 05/09/2022 🚀
 - [ ] Terceira versão
 
 Site atualizado e modificado conforme decorrer do curso 🚀🚀🚀
