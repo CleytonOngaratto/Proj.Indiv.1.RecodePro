@@ -8,8 +8,7 @@
    * HTML
    * CSS
    * Bootstrap
-   * Java
-   * MySQL
+   * 
 <!--te-->
 
 ### Link da hospedagem:
