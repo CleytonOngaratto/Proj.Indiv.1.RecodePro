@@ -1,6 +1,7 @@
 # Projeto Individual RecodePRO: Agência de Viajens (2/4)
 
-<p align="center">Nesta segunda entrega do projeto/ segunda versão, eu refatorei o código bootstrap do site, deixando-o mais responsivo e adotando as tags semânticas. 
+<p align="center">Nesta segunda entrega do projeto/ segunda versão, eu refatorei o código bootstrap do site, deixando-o mais responsivo e adotando as tags semânticas.
+
 Além disso, as novidade são: 
 * Modelo conceitual e lógico do banco de dados feito com a ferramenta BRmodelo;
 * Modelo físico (tabelas e relações) usando o MySQL;
