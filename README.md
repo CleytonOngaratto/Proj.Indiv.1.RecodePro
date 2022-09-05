@@ -1,6 +1,16 @@
-# Projeto Individual RecodePRO: Agência de Viajens (1/4)
+# Projeto Individual RecodePRO: Agência de Viajens (2/4)
 
-<p align="center">Este site eh uma proposta do curso da Recode Pro, com objetivo de praticar, fixar e avaliar os conhecimentos adquiridos no curso. O site simula uma agência de viajens, com pagina de cadastro de destino e informações sobre.</p>
+<p align="center">Nesta segunda entrega do projeto/ segunda versão, eu refatorei o código bootstrap do site, deixando-o mais responsivo e adotando as tags semânticas.
+ 
+  Além disso, as novidade são: 
+  
+  * Modelo conceitual e lógico do banco de dados feito com a ferramenta BRmodelo;
+  
+  * Modelo físico (tabelas e relações) usando o MySQL;
+  
+  * Diagrama de Classes;
+  
+  * Aplicação do CRUD em Java utilizando as classes Java, JDBC e MySQL.   </p>
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -8,7 +18,8 @@
    * HTML
    * CSS
    * Bootstrap
-   * 
+   * Java
+   * MySQL
 <!--te-->
 
 ### Link da hospedagem:
@@ -20,6 +31,7 @@ https://cleytonongaratto.github.io/agenciaDeViagens/
 - [x] Primeira versão - 10/07/2022
 - [x] Segunda versão - 05/09/2022 🚀
 - [ ] Terceira versão
+- [ ] Quarta versão
 
 Site atualizado e modificado conforme decorrer do curso 🚀🚀🚀
 
