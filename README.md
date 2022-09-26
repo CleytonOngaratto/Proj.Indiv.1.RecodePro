@@ -18,7 +18,7 @@ Há algumas coisas que ficaram desativadas no momento, mas que estão em constru
    * MySQL
 <!--te-->
 
-### Link da hospedagem:
+### Link da hospedagem (O link apresenta a página antiga, antes desta entrega. A nova página está no Crud Java):
 
 https://cleytonongaratto.github.io/Proj.Indiv.RecodePro/
 
