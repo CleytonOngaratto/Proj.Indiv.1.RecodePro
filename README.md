@@ -1,16 +1,11 @@
-# Projeto Individual RecodePRO: Agência de Viajens (2/4)
+# Projeto Individual RecodePRO: Agência de Viajens (3/4)
 
-<p align="center">Nesta segunda entrega do projeto/ segunda versão, eu refatorei o código bootstrap do site, deixando-o mais responsivo e adotando as tags semânticas.
+<p align="center">Nesta terceira entrega do projeto as novidades são:
+Refiz todo o bootstrap, mudando layout e esquema de cores. E refiz o crud em Java, dessa vez com servlet, seguindo a arquitetura mvc.
+
+Há algumas coisas que ficaram desativadas no momento, mas que estão em construção: como por exemplo as páginas de destinos e promoções, e páginas de login e cadastro. Infelizmente não consegui implementar tudo que eu queria mas já está no product backlog para a próxima entrega.
  
-  Além disso, as novidade são: 
-  
-  * Modelo conceitual e lógico do banco de dados feito com a ferramenta BRmodelo;
-  
-  * Modelo físico (tabelas e relações) usando o MySQL;
-  
-  * Diagrama de Classes;
-  
-  * Aplicação do CRUD em Java utilizando as classes Java, JDBC e MySQL.   </p>
+   </p>
 
 ## 🛠 Tecnologias utilizadas:
 
@@ -19,6 +14,7 @@
    * CSS
    * Bootstrap
    * Java
+   * Servlet
    * MySQL
 <!--te-->
 
@@ -29,8 +25,8 @@ https://cleytonongaratto.github.io/Proj.Indiv.RecodePro/
   ### Status
 
 - [x] Primeira versão - 10/07/2022
-- [x] Segunda versão - 05/09/2022 🚀
-- [ ] Terceira versão
+- [x] Segunda versão - 05/09/2022 
+- [x] Terceira versão - 26/09/2022 🚀
 - [ ] Quarta versão
 
 Site atualizado e modificado conforme decorrer do curso 🚀🚀🚀
